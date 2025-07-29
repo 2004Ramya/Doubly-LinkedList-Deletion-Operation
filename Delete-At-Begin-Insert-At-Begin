@@ -53,7 +53,7 @@ dll.display()
 
 #OutPut:-
 
-Enter The No Of Elements to Insert At End:  5
+Enter The No Of Elements to Insert At Begin:  5
 Enter the element 1:  11
 Enter the element 2:  22
 Enter the element 3:  33
@@ -62,7 +62,7 @@ Enter the element 5:  55
 Double LinkedList:
 55 <--> 44 <--> 33 <--> 22 <--> 11 <--> None
 
- How many times you want to perform delete operation:  2
+ How many times you want to perform delete operation at begin:  2
 Deleted: 55
 Deleted: 44
 Double LinkedList:
