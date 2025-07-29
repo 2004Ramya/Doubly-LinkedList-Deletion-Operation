@@ -1,4 +1,4 @@
-#Delete By value in Doubly linked list
+#Delete By value insert at end in Doubly linked list
 
 class Node:
 
